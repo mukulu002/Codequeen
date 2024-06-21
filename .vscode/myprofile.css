@@ -1,3 +1,18 @@
 body{
-    
+    background: blanchedalmond; color: black; font-size: medium; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: cursive;
+}
+.center{
+    text-align: center;
+}
+.Center{
+    display: block; margin: auto;
+}
+p{
+    text-align: unset; text-decoration: wavy;
 }

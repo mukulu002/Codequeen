@@ -1,5 +1,6 @@
 body{
     background: blanchedalmond; color: black; font-size: medium; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: -moz-linear-gradient();
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -14,5 +15,16 @@ h2{
     display: block; margin: auto;
 }
 p{
-    text-align: unset; text-decoration: wavy;
+    text-align: center; text-decoration: dotted;
+}
+li{
+font-family: Verdana, Geneva, Tahoma, sans-serif; font-display: block; text-transform: uppercase; text-wrap: balance;
+text text-align: center;
+}
+h2{
+    font-size: x-large; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+}
+ul{
+     text-align: center;
 }

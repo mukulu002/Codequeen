@@ -1,9 +1,9 @@
 body{
     background: blanchedalmond; color: black; font-size: medium; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: -moz-linear-gradient();
+    
 }
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif; background-color: pink; padding: 10px; background-size: 200px; 
 }
 h2{
     font-family: cursive;
